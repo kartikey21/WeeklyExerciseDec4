@@ -115,3 +115,4 @@ D:\Coforge\2.Technical Training(Trainer Mohd. Salman)\Day 50\D50WeeklyExercise\o
 D:\Coforge\2.Technical Training(Trainer Mohd. Salman)\Day 50\D50WeeklyExercise\obj\Debug\net5.0\D50WeeklyExercise.genruntimeconfig.cache
 D:\Coforge\2.Technical Training(Trainer Mohd. Salman)\Day 50\D50WeeklyExercise\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
 D:\Coforge\2.Technical Training(Trainer Mohd. Salman)\Day 50\D50WeeklyExercise\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+D:\Coforge\2.Technical Training(Trainer Mohd. Salman)\Day 50\D50WeeklyExercise\obj\Debug\net5.0\Razor\Views\Student\Display.cshtml.g.cs
