@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coforge\\2.Technical Training(Trainer Mohd. Salman)\\Day 50\\D50WeeklyExercise\\D50WeeklyExercise.csproj": {}
+    "C:\\Users\\karti\\Desktop\\WeeklyExercise\\D50WeeklyExercise.csproj": {}
   },
   "projects": {
-    "D:\\Coforge\\2.Technical Training(Trainer Mohd. Salman)\\Day 50\\D50WeeklyExercise\\D50WeeklyExercise.csproj": {
+    "C:\\Users\\karti\\Desktop\\WeeklyExercise\\D50WeeklyExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coforge\\2.Technical Training(Trainer Mohd. Salman)\\Day 50\\D50WeeklyExercise\\D50WeeklyExercise.csproj",
+        "projectUniqueName": "C:\\Users\\karti\\Desktop\\WeeklyExercise\\D50WeeklyExercise.csproj",
         "projectName": "D50WeeklyExercise",
-        "projectPath": "D:\\Coforge\\2.Technical Training(Trainer Mohd. Salman)\\Day 50\\D50WeeklyExercise\\D50WeeklyExercise.csproj",
+        "projectPath": "C:\\Users\\karti\\Desktop\\WeeklyExercise\\D50WeeklyExercise.csproj",
         "packagesPath": "C:\\Users\\karti\\.nuget\\packages\\",
-        "outputPath": "D:\\Coforge\\2.Technical Training(Trainer Mohd. Salman)\\Day 50\\D50WeeklyExercise\\obj\\",
+        "outputPath": "C:\\Users\\karti\\Desktop\\WeeklyExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karti\\AppData\\Roaming\\NuGet\\NuGet.Config",

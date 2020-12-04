@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Uu0EywButqH+zuh5VVdY1W1Q0UNFry3MHbBsHMni3aXjzu9uke+LvO4a9b0WiCfP5v3EUc1LqdlINFnfTCPCQ==",
+  "dgSpecHash": "OEastnNZ4JEjA4gh7L85Q1Vsj1VvJznfXtWNXEgrIZ4LCeM4i7zHsc04cLtfrwffc28dohgCQjubRjG+bQhx4Q==",
   "success": true,
-  "projectFilePath": "D:\\Coforge\\2.Technical Training(Trainer Mohd. Salman)\\Day 50\\D50WeeklyExercise\\D50WeeklyExercise.csproj",
+  "projectFilePath": "C:\\Users\\karti\\Desktop\\WeeklyExercise\\WeeklyExercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karti\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\karti\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -16,23 +16,22 @@ namespace D50WeeklyExercise.Controllers
                 new Student
                 {
                     SId=101,
-                    SName="Mohit",
-                    SContact="mohit.verma@gmail.com",
-                    SDOB=new DateTime(day:11,month:01,year:2002)
+                    SName="Rohit",
+                    SContact="rohit.verma@gmail.com",
+                    SDOB=new DateTime(day:17,month:11,year:2002)
                 },
-                new Student
-                {
-                    SId=109,
-                    SName="Taneesha",
-                    SContact="dheer.taneesha@gmail.com",
-                    SDOB=new DateTime(day:21,month:11,year:2001)
+                new Student{
+                    SId=135,
+                    SName="Aditya",
+                    SDOB=DateTime.Parse("12/05/1998"),
+                    SContact="aditya54@outlook.com"
                 },
                 new Student
                 {
                     SId=126,
-                    SName="Ankita",
-                    SContact="ankita.pandey@gmail.com",
-                    SDOB=new DateTime(day:25,month:07,year:1998)
+                    SName="Lohit",
+                    SContact="lohit.verma@gmail.com",
+                    SDOB=new DateTime(day:21,month:07,year:1998)
                 }
             };
             ViewBag.message = studentList.Count();
